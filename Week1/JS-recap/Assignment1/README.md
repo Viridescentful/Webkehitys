@@ -1,0 +1,1 @@
+https://users.metropolia.fi/~valttejo/Webkehitys/Week1/JS-recap/Assignment1/
