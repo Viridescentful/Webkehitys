@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Kirjautuminen</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="../JavaScript/mainjs.js" defer></script>
+    <link rel="stylesheet" href="../CSS/style.css">
+</head>
+<body>
+<header>
+    <div class="topnav">
+        <a class="leftfloat" href="main.html">Esimerkki</a>
+
+        <a class="rightfloat" href="kirjautuminen.html">Kirjautuminen</a>
+        <a class="rightfloat" href="main.html">Pääsivu</a>
+    </div>
+
+
+</header>
+
+<div class="loginform">
+    <main>
+        <h1>Kirjautuminen</h1>
+        <h3>Syötä kirjautumis tiedot!</h3>
+
+        <form action="main.html" method="post">
+            <label for="first">
+                Käyttäjänimi:
+            </label>
+            <input type="text" id="first" name="first"
+                   placeholder="..." required>
+
+            <label for="password">
+                Salasana:
+            </label>
+            <input type="password" id="password" name="password"
+                   placeholder="..." required>
+            <div class="wrap">
+                <button type="submit">
+                    Submit
+                </button>
+            </div>
+        </form>
+
+        <p>Ensimmäistä kertaa? <a href="#" style="text-decoration: none;">Tee uusi Käyttäjätili!</a></p>
+    </main>
+</div>
+
+</body>
+</html>
