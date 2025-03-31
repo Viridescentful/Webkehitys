@@ -3,7 +3,7 @@ html {
     scroll-padding-top: 80px;
 
     color: aliceblue;
-    font-family: "Arial Black", Helvetica, sans-serif;
+    font-family: "Arial", Helvetica, sans-serif;
 }
 
 @media (min-width: 992px) {
@@ -45,7 +45,14 @@ html {
 body {
     padding-bottom: 30px;
     font-size: 100%;
-    background-color: rgb(22, 55, 67);
+    background-color: rgb(210, 243, 255);
+    background-image: linear-gradient(rgb(210, 243, 255), rgb(237, 211, 194));
+
+    height: 100%;
+    width: 100%;
+
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 header {
@@ -61,12 +68,17 @@ main {
 }
 
 .restaurant {
-    background-color: rgb(22, 41, 94);
+
 }
 
 article {
-    background-color: rgb(22, 41, 94);
-    background-image: linear-gradient(rgb(30, 48, 97), rgb(58, 29, 17));
+    background-color: rgb(255, 255, 255);
+    background-image: linear-gradient(rgb(255, 255, 255), rgb(241, 241, 241));
+    border-radius: 4px;
+    color: #252525;
+
+    border: 1px solid rgba(0, 0, 0, 0.2);
+
 }
 
 aside {
@@ -139,10 +151,6 @@ form {
     padding: 5px;
 }
 
-.restaurant {
-
-}
-
 .list-wrapper {
     display: flex;
     flex-flow: row wrap;
@@ -157,13 +165,13 @@ form {
     left: 0;
     top: 0;
     overflow: hidden;
-    background-color: rgb(48, 19, 15);
+    border: 1px solid rgba(0, 0, 0, 0.5);
+
+    background-image: linear-gradient(rgba(32, 32, 32, 0.9), rgba(32, 32, 32, 0.8));
 }
 
 .topnav a {
     color: #f2f2f2;
-    background-color: #292929;
-    background-image: linear-gradient(rgb(97, 46, 30), rgb(58, 27, 17));
     text-align: center;
     text-decoration: none;
     font-size: 100%;
@@ -193,6 +201,6 @@ form {
 
 .rightfloat {
     float: right;
-    width: 15%;
+    width: 10%;
     padding: 14px;
 }
