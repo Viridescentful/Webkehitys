@@ -12,7 +12,7 @@
     <div class="topnav">
         <a class="leftfloat" href="main.html">Esimerkki</a>
 
-        <a class="rightfloat" href="kirjautuminen.html">Kirjautuminen</a>
+        <a class="rightfloat" href="#">Profiili</a>
         <a class="rightfloat" href="main.html">Pääsivu</a>
     </div>
 
@@ -20,7 +20,7 @@
 </header>
 
 <div class="loginform">
-    <main>
+    <main class="contents">
         <h1>Kirjautuminen</h1>
         <h3>Syötä kirjautumis tiedot!</h3>
 
@@ -28,14 +28,16 @@
             <label for="first">
                 Käyttäjänimi:
             </label>
+
             <input type="text" id="first" name="first"
                    placeholder="..." required>
-
+            <br>
             <label for="password">
                 Salasana:
             </label>
             <input type="password" id="password" name="password"
                    placeholder="..." required>
+            <br>
             <div class="wrap">
                 <button type="submit">
                     Submit

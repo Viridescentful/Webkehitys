@@ -1,4 +1,4 @@
-import {fetchData} from './fetchData.js';
+import {fetchData} from '../lib/fetchData.js';
 
 async function init() {
   try {

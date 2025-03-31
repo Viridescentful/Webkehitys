@@ -32,10 +32,13 @@ html {
 .loginform {
     text-align: center;
     position: relative;
-    top: 75px;
-    bottom: 75px;
-    padding-bottom: 30px;
-    width: 80%;
+    top: 200px;
+    width: 40%;
+    margin: auto;
+}
+
+.contents {
+    padding: 10%;
     margin: auto;
 }
 
@@ -57,9 +60,8 @@ main {
     background-color: rgb(65, 26, 19);
 }
 
-section {
-    margin-bottom: 30px;
-    background-color: rgb(30, 48, 97);
+.restaurant {
+    background-color: rgb(22, 41, 94);
     background-image: linear-gradient(rgb(30, 48, 97), rgb(58, 29, 17));
 }
 
@@ -128,7 +130,9 @@ form {
     padding: 5px
 }
 
-.contact-wrapper {
+.restaurant {
+    top: 200px;
+    padding: 5%;
     display: flex;
     flex-flow: row wrap;
     align-items: center;
