@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="Task5.js" type="module"></script>
+</head>
+
+<body>
+  <h1 class="centertitle">Restaurants</h1>
+
+  <div class="filter-container">
+    <label for="filter">Filter by Company:  </label>
+    <select id="filter">
+      <option value="All">All</option>
+      <option value="Sodexo">Sodexo</option>
+      <option value="Compass Group">Compass</option>
+    </select>
+  </div>
+
+  <table id="target">
+    <tr>
+      <th>Name</th>
+      <th>Address</th>
+      <th>City</th>
+
+
+    </tr>
+    <!-- add restaurants here -->
+  </table>
+  <!-- modal -->
+  <dialog id="modal">
+    <!-- add restaurant info here when restaurant is clicked -->
+    <div>
+      <button id="close">Close</button>
+    </div>
+  </dialog>
+</body>
+
+</html>
