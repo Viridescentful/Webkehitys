@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d6fdaca9-d90c-4040-a099-1086ed4f9679" name="Changes" comment="Bello" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="Assignment1" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Assignment1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Viridescentful&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Viridescentful/Webkehitys.git&quot;,
+    &quot;accountId&quot;: &quot;eee3752c-ee7d-441a-8cf8-151c828a0d9b&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2uR7kgTS1LPPr3TNywQvNZRSHN5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.Task4.html.executor": "Run",
+    "JavaScript Debug.Task5.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/veikk/WebstormProjects/Webkehitys",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "C:/Users/veikk/AppData/Roaming/JetBrains/WebStorm2024.3/node/versions/22.14.0/node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.import",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.3.5\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\veikk\WebstormProjects\Webkehitys\Week3" />
+      <recent name="C:\Users\veikk\WebstormProjects\Webkehitys\Week3\AdvancedJavaScript1" />
+      <recent name="C:\Users\veikk\WebstormProjects\Webkehitys\Yksilötehtävä\Html" />
+      <recent name="C:\Users\veikk\WebstormProjects\Webkehitys\Yksilötehtävä\CSS" />
+      <recent name="C:\Users\veikk\WebstormProjects\Webkehitys\Week1\JS-recap\Assignment2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\veikk\WebstormProjects\Webkehitys" />
+      <recent name="C:\Users\veikk\WebstormProjects\Webkehitys\Week4\Assigment1" />
+      <recent name="C:\Users\veikk\WebstormProjects\Webkehitys\Week2\JS-recap\Assigment5" />
+      <recent name="C:\Users\veikk\WebstormProjects\Webkehitys\Yksilötehtävä\CSS" />
+      <recent name="C:\Users\veikk\WebstormProjects\Webkehitys\Yksilötehtävä\Html" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.26053.12" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6fdaca9-d90c-4040-a099-1086ed4f9679" name="Changes" comment="" />
+      <created>1742199682029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742199682029</updated>
+      <workItem from="1742199684797" duration="1845000" />
+      <workItem from="1742208254884" duration="4856000" />
+      <workItem from="1742751927693" duration="6085000" />
+      <workItem from="1742845117824" duration="6332000" />
+      <workItem from="1742890023092" duration="7883000" />
+      <workItem from="1742979092807" duration="68000" />
+      <workItem from="1742986942850" duration="3589000" />
+      <workItem from="1743205527810" duration="140000" />
+      <workItem from="1743252282946" duration="42000" />
+      <workItem from="1743254260139" duration="440000" />
+      <workItem from="1743267912734" duration="1683000" />
+      <workItem from="1743403386864" duration="453000" />
+      <workItem from="1743413802704" duration="8742000" />
+      <workItem from="1743504560288" duration="4898000" />
+      <workItem from="1743585757162" duration="280000" />
+      <workItem from="1743586426907" duration="619000" />
+      <workItem from="1743966975109" duration="10000000" />
+      <workItem from="1743979612363" duration="975000" />
+      <workItem from="1743980605765" duration="461000" />
+    </task>
+    <task id="LOCAL-00001" summary="Bello">
+      <option name="closed" value="true" />
+      <created>1742208596003</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742208596003</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Bello">
+      <option name="closed" value="true" />
+      <created>1742212211221</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742212211221</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Bello">
+      <option name="closed" value="true" />
+      <created>1742759660204</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742759660204</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Bello">
+      <option name="closed" value="true" />
+      <created>1742852358204</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742852358204</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Bello">
+      <option name="closed" value="true" />
+      <created>1743205610488</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1743205610488</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Bello">
+      <option name="closed" value="true" />
+      <created>1743269284889</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1743269284889</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Bello">
+      <option name="closed" value="true" />
+      <created>1743269374684</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1743269374684</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Bello">
+      <option name="closed" value="true" />
+      <created>1743418262518</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1743418262518</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Bello">
+      <option name="closed" value="true" />
+      <created>1743979656070</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1743979656070</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Bello">
+      <option name="closed" value="true" />
+      <created>1743979802920</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1743979802920</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Bello">
+      <option name="closed" value="true" />
+      <created>1743980376912</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1743980376912</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Bello">
+      <option name="closed" value="true" />
+      <created>1743980738586</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1743980738586</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Bello" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bello" />
+  </component>
+</project>
