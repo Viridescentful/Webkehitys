@@ -5,46 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6fdaca9-d90c-4040-a099-1086ed4f9679" name="Changes" comment="Bello">
-      <change afterPath="$PROJECT_DIR$/Week3/Node/example.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week3/Node/src/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/Node/public/Rabbit.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week4/Assigment/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week4/Assigment/.env.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week4/Assigment/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week4/Assigment/.idea/Assigment.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week4/Assigment/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week4/Assigment/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week4/Assigment/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week4/Assigment/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week4/Assigment/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week4/Assigment/.prettierrc" beforeDir="false" afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week4/Assigment/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week4/Assigment/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week4/Assigment/eslint.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/eslint.config.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week4/Assigment/form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week4/Assigment/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week4/Assigment/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week4/Assigment/public/kissa.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week4/Assigment/src/api/controllers/auth-controller.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week4/Assigment/src/api/controllers/cat-controller.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week4/Assigment/src/api/controllers/user-controller.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week4/Assigment/src/api/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week4/Assigment/src/api/models/cat-model.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week4/Assigment/src/api/models/user-model.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week4/Assigment/src/api/routes/auth-router.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week4/Assigment/src/api/routes/cat-router.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week4/Assigment/src/api/routes/user-router.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week4/Assigment/src/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week4/Assigment/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week4/Assigment/src/middlewares.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week4/Assigment/src/rest/39999_428827613120_5658191_n.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week4/Assigment/src/rest/auth.rest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week4/Assigment/src/rest/cat-upload.rest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week4/Assigment/src/rest/user.rest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week4/Assigment/src/rest/veikko.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week4/Assigment/src/utils/database.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week4/Assigment/uploads/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week3/Node/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Week3/Node/src/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,36 +67,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.Task4.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.Task5.html.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/veikk/WebstormProjects/Webkehitys&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;C:/Users/veikk/AppData/Roaming/JetBrains/WebStorm2024.3/node/versions/22.14.0/node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2024.3.5\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.Task4.html.executor": "Run",
+    "JavaScript Debug.Task5.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/veikk/WebstormProjects/Webkehitys/Week3/Node/public",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "C:/Users/veikk/AppData/Roaming/JetBrains/WebStorm2024.3/node/versions/22.14.0/node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.import",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.3.5\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\veikk\WebstormProjects\Webkehitys\Week3\Node\public" />
       <recent name="C:\Users\veikk\WebstormProjects\Webkehitys\Week3" />
       <recent name="C:\Users\veikk\WebstormProjects\Webkehitys\Week3\AdvancedJavaScript1" />
       <recent name="C:\Users\veikk\WebstormProjects\Webkehitys\Yksilötehtävä\Html" />
       <recent name="C:\Users\veikk\WebstormProjects\Webkehitys\Yksilötehtävä\CSS" />
-      <recent name="C:\Users\veikk\WebstormProjects\Webkehitys\Week1\JS-recap\Assignment2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\veikk\WebstormProjects\Webkehitys\Week3\Node" />
@@ -177,7 +141,7 @@
       <workItem from="1743979612363" duration="975000" />
       <workItem from="1743980605765" duration="461000" />
       <workItem from="1743981078466" duration="857000" />
-      <workItem from="1743982156556" duration="1630000" />
+      <workItem from="1743982156556" duration="2872000" />
     </task>
     <task id="LOCAL-00001" summary="Bello">
       <option name="closed" value="true" />
@@ -299,7 +263,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743981302199</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Bello">
+      <option name="closed" value="true" />
+      <created>1743983868373</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1743983868373</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
