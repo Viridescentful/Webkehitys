@@ -5,13 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6fdaca9-d90c-4040-a099-1086ed4f9679" name="Changes" comment="Bello">
-      <change afterPath="$PROJECT_DIR$/Week3/Express/src/utils/database.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/Express/src/api/controllers/auth-controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/Express/src/api/routes/auth-router.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Week3/Express/src/api/controllers/cat-controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/Week3/Express/src/api/controllers/cat-controller.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Week3/Express/src/api/controllers/user-controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/Week3/Express/src/api/controllers/user-controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week3/Express/src/api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Week3/Express/src/api/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Week3/Express/src/api/models/cat-model.js" beforeDir="false" afterPath="$PROJECT_DIR$/Week3/Express/src/api/models/cat-model.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Week3/Express/src/api/models/user-model.js" beforeDir="false" afterPath="$PROJECT_DIR$/Week3/Express/src/api/models/user-model.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Week3/Express/src/api/routes/cat-router.js" beforeDir="false" afterPath="$PROJECT_DIR$/Week3/Express/src/api/routes/cat-router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week3/Express/src/api/routes/user-router.js" beforeDir="false" afterPath="$PROJECT_DIR$/Week3/Express/src/api/routes/user-router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week3/Express/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Week3/Express/src/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week3/Express/src/middlewares.js" beforeDir="false" afterPath="$PROJECT_DIR$/Week3/Express/src/middlewares.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -80,9 +85,9 @@
     &quot;JavaScript Debug.Task5.html.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Database&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Authentication&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/veikk/WebstormProjects/Webkehitys/Week3/Express/src/api/routes&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/veikk/Downloads/cat-ui&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -154,6 +159,10 @@
       <workItem from="1744104228223" duration="870000" />
       <workItem from="1744105130299" duration="5137000" />
       <workItem from="1744183659609" duration="2206000" />
+      <workItem from="1744191076968" duration="4449000" />
+      <workItem from="1744195597807" duration="3467000" />
+      <workItem from="1744570260407" duration="3460000" />
+      <workItem from="1744580790512" duration="3871000" />
     </task>
     <task id="LOCAL-00001" summary="Bello">
       <option name="closed" value="true" />

@@ -2,6 +2,7 @@
 // How to handle errors in controller?
 import promisePool from '../../utils/database.js';
 
+
 const listAllCats = async () => {
   const [rows] = await promisePool.query('SELECT * FROM wsk_cats');
   console.log('rows', rows);
@@ -9,6 +10,8 @@ const listAllCats = async () => {
 };
 
 const findCatById = async (id) => {
+
+
   const [rows] = await promisePool.execute('SELECT * FROM wsk_cats WHERE cat_id = ?', [id]);
   console.log('rows', rows);
 
@@ -21,6 +24,7 @@ const findCatById = async (id) => {
 
   return [rows[0], userrows];
 };
+
 
 const findCatByUserId = async (id) => {
   console.log(id)
@@ -37,11 +41,14 @@ const findCatByUserId = async (id) => {
   return [rows[0], userrows];
 };
 
-const addCat = async (cat) => {
-  const {cat_name, weight, owner, filename, birthdate} = cat;
+const addCat = async (cat, tokenid) => {
+  const {cat_name, weight, filename, birthdate} = cat;
+
+  console.log(tokenid);
+
   const sql = `INSERT INTO wsk_cats (cat_name, weight, owner, filename, birthdate)
                VALUES (?, ?, ?, ?, ?)`;
-  const params = [cat_name, weight, owner, filename, birthdate];
+  const params = [cat_name, weight, tokenid, filename, birthdate];
   const rows = await promisePool.execute(sql, params);
   console.log('rows', rows);
   if (rows[0].affectedRows === 0) {
