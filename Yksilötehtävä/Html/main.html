@@ -1,75 +1,101 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Esimerkki</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <script src="../JavaScript/mainjs.js" defer></script>
-    <link rel="stylesheet" href="../CSS/style.css">
+  <meta charset="UTF-8">
+  <title>Ravintola Haku</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script type="module" src="../JavaScript/mainjs.js" defer></script>
+  <link rel="stylesheet" href="../CSS/style.css">
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+        crossorigin=""/>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+          integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+          crossorigin=""></script>
 </head>
 <body>
 <header>
-    <div class="topnav">
-        <a class="leftfloat" href="main.html">Esimerkki</a>
+  <div id="navigationbar" class="topnav">
 
-        <a class="rightfloat" href="#">Profiili</a>
-        <a class="rightfloat" href="kirjautuminen.html">Kirjautuminen</a>
-
-    </div>
+  </div>
 </header>
 
 <div class="container">
-    <section class="restaurant">
-        <div class="list-wrapper">
-            <div class="product">
-                <article>
-                    <h2 class="centerheading">List of Restaurants</h2>
+  <section class="restaurant">
+    <div class="custom-select">
+      <select id="restaurantselect">
+        <option value="All">All</option>
+        <option value="Sodexo">Sodexo</option>
+        <option value="Compass Group">Compass</option>
+      </select>
+    </div>
+    <div class="list-wrapper">
+      <div class="product">
+        <article class="restaurantlist">
+          <h2 class="centerheading">List of Restaurants</h2>
 
-                    <div class="restaurantlist">
-                        <table id="target">
-                            <tr>
-                                <th>Name</th>
-                                <th>Address</th>
-                                <th>City</th>
-                            </tr>
-                        </table>
-                    </div>
-                </article>
+          <div class="restaurantlist">
+            <div class="table-wrapper">
+              <table id="target">
+                <tr>
+                  <th>Name</th>
+                  <th>Address</th>
+                  <th>City</th>
+                </tr>
+              </table>
             </div>
+          </div>
+        </article>
+      </div>
 
-            <div class="product">
-                <article>
-                    <h2 class="centerheading">Restaurant Map</h2>
+      <div class="product">
+        <article class="restaurantmap">
+          <h2 class="centerheading">Restaurant Map</h2>
 
-                    <figure>
-                        <figcaption class="centerpara">Suspendisse aliquet nibh gravida, aliquam nunc et.</figcaption>
-                    </figure>
+          <figure>
+            <figcaption class="centerpara">Valitse Ravintola kartalta!
+            </figcaption>
+          </figure>
 
-                    <div class="mapdiv">
-                        <iframe class="map"
-                                src="https://www.openstreetmap.org/export/embed.html?bbox=24.94563013315201%2C60.162852937911836%2C24.949170649051666%2C60.164043287484795&amp;layer=mapnik"
-                                style="border: 1px solid black"></iframe>
-                    </div>
-                </article>
+          <div id="map" class="mapdiv">
+
+          </div>
+        </article>
+      </div>
+    </div>
+
+  </section>
+
+  <section class="restaurant">
+    <div class="list-wrapper">
+      <div class="setting-select">
+        <select id="menuselect">
+          <option value="daily">Päivän Ruokalista</option>
+          <option value="weekly">Viikon Ruokalista</option>
+        </select>
+      </div>
+
+
+      <div class="product">
+        <article class="foodlist">
+          <h2 id="foodlistlabel" class="centerheading">Today's Selection</h2>
+          <div class="table-wrapper">
+            <div id="foodlist" class="foodlist">
+
             </div>
-        </div>
+          </div>
 
-    </section>
+        </article>
+      </div>
 
-    <section class="restaurant">
-        <div class="list-wrapper">
-            <div class="product">
-                <article>
-                    <h2 class="centerheading">Today's Selection</h2>
+      <div class="wrap">
+        <input id="favoritebutton" type="button" value="Favorite">
+      </div>
+    </div>
 
-                    <div id="foodlist" class="foodlist">
-
-                    </div>
-                </article>
-            </div>
-        </div>
-
-    </section>
+  </section>
 </div>
 
 </body>

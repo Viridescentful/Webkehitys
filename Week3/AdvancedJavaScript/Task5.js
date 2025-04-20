@@ -6,7 +6,6 @@ import {createModalHtml} from './components.js';
 const apiUrl = 'https://media2.edu.metropolia.fi/restaurant/api/v1';
 const taulukko = document.querySelector('#target');
 const modal = document.querySelector('#modal');
-const closebutton = document.querySelector('#close');
 const filterSelect = document.querySelector('#filter');
 
 let restaurants = [];

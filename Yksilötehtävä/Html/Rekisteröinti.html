@@ -2,25 +2,26 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Kirjautuminen</title>
+  <title>Rekisteröinti</title>
   <meta content="width=device-width, initial-scale=1" name="viewport">
-  <script type="module" src="../JavaScript/KirjautuminenJS.js" defer></script>
+  <script type="module" src="../JavaScript/RekisteröintiJS.js" defer></script>
   <link href="../CSS/style.css" rel="stylesheet">
 </head>
 <body>
 <header>
   <div id="navigationbar" class="topnav">
-    <a class="rightfloat" href="Rekisteröinti.html">Kirjautuminen</a>
+    <a class="rightfloat" href="kirjautuminen.html">Kirjautuminen</a>
     <a class="rightfloat" href="main.html">Ravintola Haku</a>
   </div>
+
 </header>
 
 <div class="loginform">
   <main class="contents">
-    <h1>Kirjautuminen</h1>
-    <h3>Syötä kirjautumis tiedot!</h3>
+    <h1>Rekisteröityminen</h1>
+    <h3>Syötä käyttäjä tiedot!</h3>
 
-    <form>
+    <form action="main.html" method="post">
       <label for="first">
         Käyttäjänimi:
       </label>
@@ -28,19 +29,28 @@
       <input class="logininput" id="first" name="first" placeholder="..."
              required type="text">
       <br>
+
+      <label for="mailinput">
+        Sähköposti:
+      </label>
+
+      <input class="logininput" id="mailinput" name="mailinput" placeholder="..."
+             required type="text">
+      <br>
+
       <label for="password">
         Salasana:
       </label>
       <input class="logininput" id="password" name="password" placeholder="..."
              required type="password">
       <br>
+
       <div class="wrap">
-        <input id="loginsubmit" type="submit" value="Kirjaudu">
+        <input id="signupsubmit" type="submit" value="Luo Tili">
       </div>
     </form>
 
-    <p>Ensimmäistä kertaa? <a href="Rekisteröinti.html" style="text-decoration: none;">Tee uusi
-      Käyttäjätili!</a></p>
+    <p>Onko sinulla jo tili? <a href="kirjautuminen.html" style="text-decoration: none;">Kirjaudu sisään!</a></p>
   </main>
 </div>
 

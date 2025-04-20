@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Profiili</title>
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <script type="module" src="../JavaScript/ProfiiliJS.js" defer></script>
+  <link href="../CSS/style.css" rel="stylesheet">
+</head>
+<body>
+<header>
+  <div id="navigationbar" class="topnav">
+    <a class="rightfloat" href="main.html">Ravintola Haku</a>
+  </div>
+</header>
+
+<div class="profileinfo">
+  <main class="contents">
+    <h1>Profiili Tiedot</h1>
+    <p id="userinfo"><strong>Käyttäjätunnus:</strong><strong>Sähköposti:</strong><strong>Lempi Ravintola:</strong></p>
+
+    <form>
+      <label for="first">
+        Käyttäjänimi:
+      </label>
+
+      <input class="profileinput" id="first" name="first" placeholder="..."
+             required type="text">
+
+      <label for="password">
+        Salasana:
+      </label>
+      <input class="profileinput" id="password" name="password" placeholder="..."
+             required type="password">
+
+      <label for="mailinput">
+        Sähköposti:
+      </label>
+
+      <input class="profileinput" id="mailinput" name="mail" placeholder="..."
+             required type="text">
+
+      <div class="wrap">
+        <input id="updatebutton" type="submit" value="Päivitä Tiedot">
+      </div>
+
+      <div class="wrap">
+        <input id="logoutbutton" type="button" value="Kirjaudu Ulos">
+      </div>
+    </form>
+  </main>
+</div>
+
+</body>
+</html>
