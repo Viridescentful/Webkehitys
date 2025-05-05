@@ -20,7 +20,7 @@ loginbutton.addEventListener('click', async () => {
 
   if (response) {
     alert('Rekisteröinti onnistui!');
-    window.location.href = '.././Html/Kirjautuminen.html';
+    window.location.href = '.././Html/kirjautuminen.html';
   } else {
     alert('Rekisteröinti epäonnistui! Tarkista syötteet.');
   }
